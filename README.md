@@ -1,8 +1,8 @@
 
 
-**VaultSync** 是一个轻量级的备份工具，专为 [Vaultwarden](https://github.com/dani-garcia/vaultwarden)（开源的 Bitwarden 兼容密码管理器）设计。
+**vault-sync** 是一个轻量级的备份工具，专为 [Vaultwarden](https://github.com/dani-garcia/vaultwarden)（开源的 Bitwarden 兼容密码管理器）设计。
 
-VaultSync 使得用户能够轻松地备份和恢复 Vaultwarden 数据，并通过对备份的加密保证备份在本地和远程存储中的安全。通过简单的配置，您可以设置定期备份任务，并确保数据的加密保护。
+**vault-sync** 使得用户能够轻松地备份和恢复 Vaultwarden 数据，并通过对备份的加密保证备份在本地和远程存储中的安全。通过简单的配置，您可以设置定期备份任务，并确保数据的加密保护。
 
 ## 特性
 
@@ -22,4 +22,4 @@ VaultSync 使得用户能够轻松地备份和恢复 Vaultwarden 数据，并通
 
 ## License
 
-VaultSync 使用 MIT 许可证，详见 [LICENSE](https://github.com/lcok/VaultSync/blob/main/LICENSE) 文件。
+**vault-sync** 使用 MIT 许可证，详见 [LICENSE](https://github.com/lcok/vault-sync/blob/main/LICENSE) 文件。
